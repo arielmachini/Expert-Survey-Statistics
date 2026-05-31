@@ -1,4 +1,7 @@
-/data
+bin/
+data/
+/lib64
+/pyvenv.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
